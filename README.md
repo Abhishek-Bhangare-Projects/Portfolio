@@ -1,4 +1,4 @@
-# Akash Gaikwad — Portfolio
+# Abhishek Bhangare — Portfolio
 
 This is a minimal, responsive static portfolio template for Akash Gaikwad.
 
